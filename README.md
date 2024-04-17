@@ -5,8 +5,7 @@
 <ul>
   <li>FIRST OF ALL, A Responsive Design</li>
   <li>Amazing Animations</li>
-  <li>An Email Validator<li>
-    <li>Background Music and Emoji's</li>
+  <li>Background Music and Emoji's</li>
   <li>Hacking Simulation</li>
   <li>Use of Javascript Functions like: addEventListener etc, for better User Interaction.</li>
 </ul>
